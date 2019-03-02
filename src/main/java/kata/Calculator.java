@@ -5,12 +5,12 @@ import java.util.*;
 public class Calculator {
 
     double compute(String input) {
-        List<String> symbols = tokenize(input);
+
         return 0;
     }
 
 
-    private List<String> ONP(String[] expressions) {
+    /*private List<String> ONP(String[] expressions) {
         if (expressions.length == 0) {
             return null;
         }
@@ -59,5 +59,5 @@ public class Calculator {
         }
         List <String> tokens = new ArrayList<>();
         return tokens;
-    }
+    }*/
 }
